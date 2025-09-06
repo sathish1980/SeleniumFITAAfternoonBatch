@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-06T15:04:04 IST" name="Suite" finished-at="2025-09-06T15:04:08 IST" duration-ms="4170">
+    <groups>
+    </groups>
+    <test started-at="2025-09-06T15:04:04 IST" name="Test" finished-at="2025-09-06T15:04:08 IST" duration-ms="4170">
+      <class name="Testcase.MakeMyTripFlightSearch">
+        <test-method is-config="true" signature="OpentheBrowser()[pri:0, instance:Testcase.MakeMyTripFlightSearch@6ed3ccb2]" started-at="2025-09-06T15:04:00 IST" name="OpentheBrowser" finished-at="2025-09-06T15:04:04 IST" duration-ms="3223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpentheBrowser -->
+        <test-method is-config="true" signature="EnterApplicationURL()[pri:0, instance:Testcase.MakeMyTripFlightSearch@6ed3ccb2]" started-at="2025-09-06T15:04:04 IST" name="EnterApplicationURL" finished-at="2025-09-06T15:04:08 IST" duration-ms="4083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterApplicationURL -->
+        <test-method signature="SearchwithValidData()[pri:0, instance:Testcase.MakeMyTripFlightSearch@6ed3ccb2]" started-at="2025-09-06T15:04:08 IST" name="SearchwithValidData" finished-at="2025-09-06T15:04:08 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchwithValidData -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Testcase.MakeMyTripFlightSearch@6ed3ccb2]" started-at="2025-09-06T15:04:08 IST" name="TearDown" finished-at="2025-09-06T15:04:10 IST" duration-ms="1830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Testcase.MakeMyTripFlightSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
